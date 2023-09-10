@@ -1,0 +1,7 @@
+.product-container {
+   display: flex;
+   gap: 1rem;
+   flex-wrap: wrap;
+   width: 100%;
+   padding: 5rem;
+}
