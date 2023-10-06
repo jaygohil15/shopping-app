@@ -1,3 +1,5 @@
+## NOTE
+Deployed site will couple of minutes to start backend. Since its deployed on free tier and while inactive it will be sleeping.
 
 ## Available Scripts
 
